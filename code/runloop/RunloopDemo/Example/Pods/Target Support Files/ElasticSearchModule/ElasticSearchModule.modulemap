@@ -1,0 +1,6 @@
+framework module ElasticSearchModule {
+  umbrella header "ElasticSearchModule-umbrella.h"
+
+  export *
+  module * { export * }
+}

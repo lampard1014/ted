@@ -1,0 +1,16 @@
+PODS:
+  - ElasticSearchModule (0.1.0)
+
+DEPENDENCIES:
+  - ElasticSearchModule (from `../`)
+
+EXTERNAL SOURCES:
+  ElasticSearchModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ElasticSearchModule: 68b767a364bf103a38a9b2f8acfa9d25ccd7b50f
+
+PODFILE CHECKSUM: 865ee1c62496096ee03176f2dbc14ad442f2c6c9
+
+COCOAPODS: 1.2.1

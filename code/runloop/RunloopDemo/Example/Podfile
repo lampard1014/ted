@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ElasticSearchModule_Example' do
+  pod 'ElasticSearchModule', :path => '../'
+
+  target 'ElasticSearchModule_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,6 @@
+framework module Pods_ElasticSearchModule_Example {
+  umbrella header "Pods-ElasticSearchModule_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
